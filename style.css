@@ -1,0 +1,49 @@
+.line {
+    height: 6px;
+    background-color: deeppink;
+    width: 250px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+    font-family: 'Henny Penny', cursive;
+    opacity: 0.83;
+    background: linear-gradient(#85ffb8 0%, #60ebeb 100%);
+}
+
+.IMG {
+    height: 300;
+    width: 300;
+}
+
+.IMGs {
+    height: 300;
+    width: 400;
+}
+
+.IMGes {
+    height: 300;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: rebeccapurple;
+}
+
+.qm {
+    border-top: dashed red;
+    width: 590px;
+    margin-top: -20px;
+}
+.qme {
+    border-top: dashed lightcoral ; 
+    width: 300px;
+    margin-top: -20px;
+}
+am {
+    border-spacing: inherit;
+}
